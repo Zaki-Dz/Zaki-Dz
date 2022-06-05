@@ -53,5 +53,7 @@
 <a href="https://www.linkedin.com/in/zakaria-mameri-149b13222/">
 	<img src="https://img.shields.io/badge/-Linked%20in-333333?logo=linkedin" />
 </a>
-<a href="mailto:zakariamameri.dev@gmail.com"></a>
+<a href="mailto:zakariamameri.dev@gmail.com">
+	<img src="https://img.shields.io/badge/-Gmail-333333?logo=gmail" />
+</a>
 </p>
