@@ -34,7 +34,7 @@
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?logo=adobe-xd)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 	
-- Operating Systems &nbsp;
+- 🖥 &nbsp;
 	![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 	![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
