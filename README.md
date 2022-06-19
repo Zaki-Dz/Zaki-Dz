@@ -8,9 +8,9 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+	![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+	![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+	![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -47,11 +47,9 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-
 <a href="https://www.linkedin.com/in/zakaria-mameri-149b13222/">
 	<img src="https://img.shields.io/badge/-Linked%20in-333333?logo=linkedin" />
 </a>
 <a href="mailto:zakariamameri.dev@gmail.com">
 	<img src="https://img.shields.io/badge/-Gmail-333333?logo=gmail" />
 </a>
-
