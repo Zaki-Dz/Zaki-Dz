@@ -40,10 +40,8 @@
 
 <br/>
 
-<a href="https://github.com/Zaki-Dz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zaki-Dz&theme=cyan&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaki-Dz&theme=cyan&layout=compact" />
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zaki-Dz&theme=cyan&show_icons=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaki-Dz&theme=cyan&layout=compact" />
 
 <br/>
 
