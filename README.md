@@ -18,7 +18,6 @@
 - 🌐 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20native-333333?style=flat&logo=react)
-  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
   ![SASS](https://img.shields.io/badge/-SASS-333333?logo=sass)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   
@@ -33,10 +32,10 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime%20text)
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+	![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+	![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?logo=adobe-xd)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?logo=adobe-xd)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+	![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
 	
 - 🖥 &nbsp;
 	![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
