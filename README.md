@@ -43,11 +43,11 @@
 
 <h3> 🛠 &nbsp;Some of my works</h3>
 
-- <a href='https://github.com/Zaki-Dz/Ultimate_Portfolio_React' target=''>Ultimate Portfolio</a>
-- <a href='https://github.com/Zaki-Dz/Portfolio_React' target=''>Portfolio</a>
-- <a href='https://github.com/Zaki-Dz/Dashboard_Dark_Light_React' target=''>Dashboard (Dark / Light)</a>
-- <a href='https://github.com/Zaki-Dz/Modern_UI' target=''>Modern UI</a>
-- <a href='https://github.com/Zaki-Dz/Tesla_Clone_React' target=''>Tesla Clone</a>
+- <a href='https://github.com/Zaki-Dz/Ultimate_Portfolio_React' target='_blank'>Ultimate Portfolio</a>
+- <a href='https://github.com/Zaki-Dz/Portfolio_React' target='_blank'>Portfolio</a>
+- <a href='https://github.com/Zaki-Dz/Dashboard_Dark_Light_React' target='_blank'>Dashboard (Dark / Light)</a>
+- <a href='https://github.com/Zaki-Dz/Modern_UI' target='_blank'>Modern UI</a>
+- <a href='https://github.com/Zaki-Dz/Tesla_Clone_React' target='_blank'>Tesla Clone</a>
 
 <br/>
 
