@@ -41,6 +41,10 @@
 	![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 	![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
+<h3> 🛠 &nbsp;Some of my works</h3>
+
+- <a href='https://github.com/Zaki-Dz/Ultimate_Portfolio_React'>Ultimate Portfolio</a>
+
 <br/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zaki-Dz&theme=cyan&show_icons=true" />
