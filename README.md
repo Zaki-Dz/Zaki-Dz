@@ -44,6 +44,10 @@
 <h3> 🛠 &nbsp;Some of my works</h3>
 
 - <a href='https://github.com/Zaki-Dz/Ultimate_Portfolio_React'>Ultimate Portfolio</a>
+- <a href='https://github.com/Zaki-Dz/Portfolio_React'>Portfolio</a>
+- <a href='https://github.com/Zaki-Dz/Dashboard_Dark_Light_React'>Dashboard (Dark / Light)</a>
+- <a href='https://github.com/Zaki-Dz/Modern_UI'>Modern UI</a>
+- <a href='https://github.com/Zaki-Dz/Tesla_Clone_React'>Tesla Clone</a>
 
 <br/>
 
