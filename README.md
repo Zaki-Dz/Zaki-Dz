@@ -23,7 +23,7 @@
   
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-	![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -50,9 +50,6 @@
 - <a href='https://github.com/Zaki-Dz/Tesla_Clone_React' target='_blank'>Tesla Clone</a>
 
 <br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zaki-Dz&theme=cyan&show_icons=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaki-Dz&theme=cyan&layout=compact" />
 
 <br/>
 
