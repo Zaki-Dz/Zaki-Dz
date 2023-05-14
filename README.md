@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studied Web development and Multimedia at the National Institute Specialised in Professional Formations - Algiers / Algeria .
-- 🌱 &nbsp; Learning more about Web development (Front-end) .
+- 🌱 &nbsp; Learning more about Web development .
 - 🌱 &nbsp; Learning Mobile app development (React native) .
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
